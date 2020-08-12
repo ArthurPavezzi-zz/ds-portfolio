@@ -11,6 +11,7 @@ Escreva uma descrição bem detalhada e introdutória.
 ## Projetos de Data Science
 
 * [**Análise de Matriz de Insumo-Produto**](https://github.com/ArthurPavezzi/analise-matriz-leontieff/blob/master/analise.ipynb)
+* [**Titanic**](https://github.com/ArthurPavezzi/portfolio/blob/master/titanic.ipynb)
 
 ---
 
