@@ -12,6 +12,7 @@ Lista de projetos de Data Science, Análise de Dados e Machine Learning
 
 * [**Análise de Matriz de Insumo-Produto**](https://github.com/ArthurPavezzi/analise-matriz-leontieff/blob/master/analise.ipynb)
 * [**Titanic**](https://github.com/ArthurPavezzi/portfolio/blob/master/titanic.ipynb)
+* [**Consumo de Cerveja em São Paulo**](https://github.com/ArthurPavezzi/portfolio/blob/master/consumo_cerveja.ipynb)
 
 ---
 
