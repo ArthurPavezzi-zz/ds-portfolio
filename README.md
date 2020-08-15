@@ -4,7 +4,7 @@
 
 Sou um iniciante em Data Science, sem experiência profissional na área. 
 
-* [LinkedIn](https://www.linkedin.com/in/carlosfab//)
+* [LinkedIn](https://www.linkedin.com/in/arthur-pavezzi/)
 
 ## Projetos
 
